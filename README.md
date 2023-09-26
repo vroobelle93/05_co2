@@ -15,14 +15,16 @@ I am using [RMSE](https://en.wikipedia.org/wiki/Root-mean-square_deviation) to m
 ## Motivation
 I used this project as a playground to learn machine learning regression tools. It also helped me get more familiar with sklearn framework, so in nutshell:
  - Sci-kit learn - I got familiar with its API and selecting right model,
+ - Git - I am going to skill working with branches and create couple of conflicts to learn solving them,
  - Machine learning regression tools - checked mathematics behind it,
  - $LaTeX$ - fancy equations,
  - pandas, seaborn - some training in this area is always cool,  
 
 ## How to run the project
  - Download repo files,
+ - Download data input files from [here](https://www.kaggle.com/competitions/playground-series-s3e20/data)
  - Create Conda environment using environment.yml file,
- - Run the notebook - execution takes 1-2 minutes,
+ - Run the notebook,
 
 ## Possible upgrades
 More sophisticated ML tools can be used or there could be done more data analysis to find better correlations between data - for example lag features could be explored.
